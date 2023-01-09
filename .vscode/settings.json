@@ -1,0 +1,9 @@
+{
+    "nrf-connect.applications": [
+        "${workspaceFolder}"
+    ],
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "max30102.h": "c"
+    }
+}
